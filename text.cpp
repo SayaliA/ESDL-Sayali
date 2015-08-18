@@ -3,7 +3,8 @@
 using namespace std;
 int main()
 {
-cout<<"Helloworld";
+
 cout<<"cummins";
+cout<<"ping";
 return 0;
 }
